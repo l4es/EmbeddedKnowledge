@@ -4,6 +4,7 @@
   - [C](#c-1)
   - [Python](#python)
   - [Golang](#golang)
+  - [UML](#uml)
   
 - [OS](#os)
   - [Linux](#linux)
@@ -72,6 +73,11 @@
 * [Solutions for Elements of Programming Interviews problems written in Golang](https://github.com/mrekucci/epi)
 * [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
+
+### UML
+
+* [The Complete Guide to UML Diagram Types with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
+* [UML Class Diagram Explained With C++ samples](https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/)
 
 ## OS
 
