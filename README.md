@@ -51,6 +51,7 @@
 * [First set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/)
 * [Second set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/)
 * [Basics of Embedded C Program and Programming Structure for Beginners](https://www.elprocus.com/basics-and-structure-of-embedded-c-program-with-examples-for-beginners/)
+* [Embedded C Interview Questions and Answers](http://a4academics.com/interview-questions/57-c-plus-plus/722-embedded-c-interview-questions) 
 * [C Programming Language Tutorial](https://www.studytonight.com/c/)
 * [C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)
 
@@ -85,6 +86,12 @@
 * [Top 30 Linux System Admin Interview Questions & Answers](http://www.linuxtechi.com/experience-linux-admin-interview-questions/)
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
 * [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
+
+### RTOS
+
+* [Embedded and Communication Technologies Discussion Handbook](http://embedded-telecom-interview.blogspot.com/2010/06/rtos-interview-questions.html)
+* [RTOS Real time operating system interview questions ](http://www.andthinker.com/2016/01/rtos-real-time-operating-system.html)
+* [50 Real Time RTOS Interview Questions and Answers](http://interviewquestionsanswerspdf.com/2016/11/rtos-interview-questions-answers/)
 
 ## Platforms
 
