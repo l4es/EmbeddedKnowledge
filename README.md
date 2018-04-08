@@ -7,6 +7,22 @@
   
 - [OS](#os)
   - [Linux](#linux)
+  - [RTOS](#rtos)
+
+- [Platforms](#platform)
+  - [Raspberry Pi](#raspi)
+  - [Beagle Board](#beagle)
+  - [ARM Cortex-M](#arm-cortex-m)
+  - [Arduino](#arduino)
+  - [ESP8266 Wifi](#esp8266) 
+
+- [Product Domains](#product-domains) 
+  - [Automotive](#automotive)
+  - [Home Automation](#home-automation)
+  - [Industrial Automation](#idustrial-automation)
+  - [Internet Of Things](#internet-of-things)
+  - [Linux Gateway Router](#linux-gateway-router)
+  - [Robotics](#robotics)
 
 ## Programming Languages
 
@@ -62,3 +78,19 @@
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
 * [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
 
+## Platforms
+
+### Raspberry Pi
+### Beagle Board
+### ARM Cortex-M
+### Arduino
+### ESP8266 Wifi
+
+## Product Domains
+
+### Automotive
+### Home Automation
+### Industrial Automation
+### Internet Of Things
+### Linux Gateway Router
+### Robotics
