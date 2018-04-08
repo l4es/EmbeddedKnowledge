@@ -4,7 +4,7 @@
   - [C](#c-1)
   - [Python](#python)
   - [Golang](#golang)
-  - [UML](#uml)
+  - [OOP](#oop)
   
 - [OS](#os)
   - [Linux](#linux)
@@ -40,6 +40,8 @@
 * [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
 * [C++ Complete Course](https://www.studytonight.com/cpp/) 
 * [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/)
+* [C++ Excercises and Solutions](http://www.worldbestlearningcenter.com/index_files/cpp-tutorial-variables_datatypes_exercises.htm)
+* [Online C++ Programming Test](http://www.indiabix.com/online-test/cpp-programming-test/) 
 
 ### C
 
@@ -55,6 +57,8 @@
 * [Embedded C Interview Questions and Answers](http://a4academics.com/interview-questions/57-c-plus-plus/722-embedded-c-interview-questions) 
 * [C Programming Language Tutorial](https://www.studytonight.com/c/)
 * [C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)
+* [Programming Skills](http://www.pskills.org/c.jsp)
+* [Online C Programming Test](http://www.indiabix.com/online-test/c-programming-test/) 
 
 ### Python
 
@@ -74,7 +78,7 @@
 * [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
 
-### UML
+### OOP
 
 * [The Complete Guide to UML Diagram Types with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 * [UML Class Diagram Explained With C++ samples](https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/)
