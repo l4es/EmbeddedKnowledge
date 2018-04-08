@@ -40,6 +40,7 @@
 
 ### C
 
+* [1000+ Multiple Choice Questions & Answers in C with explanations](https://www.sanfoundry.com/c-interview-questions-answers/)
 * [165 C interview questions](http://placement.freshersworld.com/power-preparation/technical-interview-questions/C-programming-answers-21419)
 * [Basic C language technical frequently asked interview questions and answers It includes data structures, pointers interview questions and answers for experienced](http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html)
 * [C Programming Interview Questions and Answers for such topics as Bits and Bytes, Preprocessors, Functions, Strings, Language basics and etc](http://www.indiabix.com/technical/c/)
@@ -69,6 +70,7 @@
 
 ### Linux
 
+* [1000+ Multiple Choice Questions & Answers in Linux with explanations](https://www.sanfoundry.com/technical-interview-questions/)
 * [10 Job Interview Questions for Linux System Administrators from Linux.com](https://www.linux.com/news/featured-blogs/200-libby-clark/842913-10-job-interview-questions-for-linux-sysadmins)
 * [10 Useful Random Linux Interview Questions and Answers](http://www.tecmint.com/useful-random-linux-interview-questions-and-answers/)
 * [11 Basic Linux Interview Questions and Answers](http://www.tecmint.com/basic-linux-interview-questions-and-answers/)
@@ -89,6 +91,10 @@
 ## Product Domains
 
 ### Automotive
+
+* [Automotive Basics](https://automotivetechis.wordpress.com/automotive-interview-questions/)
+* [CAN Interview Questions](http://www.andthinker.com/2016/02/automotive-interview-questions-can1.html)
+
 ### Home Automation
 ### Industrial Automation
 ### Internet Of Things
