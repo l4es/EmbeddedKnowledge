@@ -37,16 +37,22 @@
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
 * [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
+* [C++ Complete Course](https://www.studytonight.com/cpp/) 
+* [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/)
 
 ### C
 
 * [1000+ Multiple Choice Questions & Answers in C with explanations](https://www.sanfoundry.com/c-interview-questions-answers/)
+* [C interview questions & answers](https://fresh2refresh.com/c-programming/c-interview-questions-answers/) 
 * [165 C interview questions](http://placement.freshersworld.com/power-preparation/technical-interview-questions/C-programming-answers-21419)
 * [Basic C language technical frequently asked interview questions and answers It includes data structures, pointers interview questions and answers for experienced](http://www.cquestions.com/2010/10/c-interview-questions-and-answers.html)
 * [C Programming Interview Questions and Answers for such topics as Bits and Bytes, Preprocessors, Functions, Strings, Language basics and etc](http://www.indiabix.com/technical/c/)
 * [C Programming Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of C Programming](http://www.tutorialspoint.com/cprogramming/cprogramming_interview_questions.htm)
 * [First set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-1/)
 * [Second set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/)
+* [Basics of Embedded C Program and Programming Structure for Beginners](https://www.elprocus.com/basics-and-structure-of-embedded-c-program-with-examples-for-beginners/)
+* [C Programming Language Tutorial](https://www.studytonight.com/c/)
+* [C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)
 
 ### Python
 
