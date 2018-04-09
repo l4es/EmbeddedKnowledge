@@ -5,6 +5,8 @@
   - [Python](#python)
   - [Golang](#golang)
   - [OOP](#oop)
+
+- [Algorithm](#algorithm)
   
 - [OS](#os)
   - [Linux](#linux)
@@ -42,6 +44,7 @@
 * [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Excercises and Solutions](http://www.worldbestlearningcenter.com/index_files/cpp-tutorial-variables_datatypes_exercises.htm)
 * [Online C++ Programming Test](http://www.indiabix.com/online-test/cpp-programming-test/) 
+* [Firmware Developer](http://www.firmcodes.com/cc-codes/)
 
 ### C
 
@@ -59,6 +62,7 @@
 * [C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)
 * [Programming Skills](http://www.pskills.org/c.jsp)
 * [Online C Programming Test](http://www.indiabix.com/online-test/c-programming-test/) 
+* [C Tutorial](http://www.zentut.com/c-tutorial/)
 
 ### Python
 
