@@ -107,6 +107,7 @@
 * [RTOS Real time operating system interview questions ](http://www.andthinker.com/2016/01/rtos-real-time-operating-system.html)
 * [50 Real Time RTOS Interview Questions and Answers](http://interviewquestionsanswerspdf.com/2016/11/rtos-interview-questions-answers/)
 * [Interrupt Handling in Embedded Software](http://embien.com/blog/interrupt-handling-in-embedded-software/)
+* [µOS++ IIIe - Basic Concepts](http://micro-os-plus.github.io/user-manual/basic-concepts/)
 * [Real-Time Systems Concepts](https://doc.micrium.com/display/osiidoc/Real-Time+Systems+Concepts)
 * [RTOS Fundamentals](https://www.freertos.org/implementation/a00002.html)
 * [RTOS Concepts](http://www.chibios.org/dokuwiki/doku.php?id=chibios:articles:rtos_concepts)
