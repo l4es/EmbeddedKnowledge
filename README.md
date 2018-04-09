@@ -111,6 +111,7 @@
 * [RTOS Fundamentals](https://www.freertos.org/implementation/a00002.html)
 * [RTOS Concepts](http://www.chibios.org/dokuwiki/doku.php?id=chibios:articles:rtos_concepts)
 * [General RTOS Concepts](dev.ti.com/tirex/content/simplelink_academy_cc2640r2sdk_1_12_00_00/modules/rtos_concepts/rtos_concepts.html)
+* [Preemptive vs. Cooperative Multitasking](https://www.avrfreaks.net/forum/preemptive-vs-cooperative-multitasking?page=all)
 
 ## Platforms
 
