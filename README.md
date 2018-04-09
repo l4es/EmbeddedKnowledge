@@ -106,6 +106,11 @@
 * [Embedded and Communication Technologies Discussion Handbook](http://embedded-telecom-interview.blogspot.com/2010/06/rtos-interview-questions.html)
 * [RTOS Real time operating system interview questions ](http://www.andthinker.com/2016/01/rtos-real-time-operating-system.html)
 * [50 Real Time RTOS Interview Questions and Answers](http://interviewquestionsanswerspdf.com/2016/11/rtos-interview-questions-answers/)
+* [Interrupt Handling in Embedded Software](http://embien.com/blog/interrupt-handling-in-embedded-software/)
+* [Real-Time Systems Concepts](https://doc.micrium.com/display/osiidoc/Real-Time+Systems+Concepts)
+* [RTOS Fundamentals](https://www.freertos.org/implementation/a00002.html)
+* [RTOS Concepts](http://www.chibios.org/dokuwiki/doku.php?id=chibios:articles:rtos_concepts)
+* [General RTOS Concepts](dev.ti.com/tirex/content/simplelink_academy_cc2640r2sdk_1_12_00_00/modules/rtos_concepts/rtos_concepts.html)
 
 ## Platforms
 
