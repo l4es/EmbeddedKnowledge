@@ -7,8 +7,8 @@
   - [OOP](#oop)
 
 - [Algorithms](#algorithms)
-  - [Bit manipilation]
-  - [Linked list]
+  - [Bit manipilation](#bit)
+  - [Linked list](#linkedlist)
 
 - [OS](#os)
   - [Linux](#linux)
