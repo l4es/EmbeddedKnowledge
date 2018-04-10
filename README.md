@@ -6,8 +6,10 @@
   - [Golang](#golang)
   - [OOP](#oop)
 
-- [Algorithm](#algorithm)
-  
+- [Algorithms](#algorithms)
+  - [Bit manipilation]
+  - [Linked list]
+
 - [OS](#os)
   - [Linux](#linux)
   - [RTOS](#rtos)
@@ -86,6 +88,11 @@
 
 * [The Complete Guide to UML Diagram Types with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 * [UML Class Diagram Explained With C++ samples](https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/)
+
+## Algorithms
+
+### Bit manipilation
+### Linked list
 
 ## OS
 
