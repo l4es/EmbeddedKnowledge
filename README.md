@@ -136,6 +136,7 @@
 * [Automotive Basics](https://automotivetechis.wordpress.com/automotive-interview-questions/)
 * [CAN Interview Questions](http://www.andthinker.com/2016/02/automotive-interview-questions-can1.html)
 * [Let's talk about cars](http://www.car-engineer.com/)
+* [Free and Open Source Engine Management System](http://freeems.org/)
 
 ### Home Automation
 ### Industrial Automation
