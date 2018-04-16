@@ -137,6 +137,10 @@
 * [CAN Interview Questions](http://www.andthinker.com/2016/02/automotive-interview-questions-can1.html)
 * [Let's talk about cars](http://www.car-engineer.com/)
 * [Free and Open Source Engine Management System](http://freeems.org/)
+* [GPS Tracking Software -  Free and Open Source System - Traccar](https://www.traccar.org/)
+* [OpenXC Vehicle Interface Firmware](http://vi-firmware.openxcplatform.com/en/master/index.html)
+* [OpenGTS - Open GPS Tracking System](http://www.opengts.org/)
+* [Hacking Volvo](http://hackingvolvo.blogspot.com/)
 
 ### Home Automation
 ### Industrial Automation
