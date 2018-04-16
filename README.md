@@ -141,6 +141,7 @@
 * [OpenXC Vehicle Interface Firmware](http://vi-firmware.openxcplatform.com/en/master/index.html)
 * [OpenGTS - Open GPS Tracking System](http://www.opengts.org/)
 * [Hacking Volvo](http://hackingvolvo.blogspot.com/)
+* [The OpenXC Platform](http://openxcplatform.com/)
 
 ### Home Automation
 ### Industrial Automation
