@@ -152,6 +152,7 @@
 * [Smart Home Automation for the Raspberry Pi](https://pimatic.org/)
 * [Home Assistant](https://www.home-assistant.io/)
 * [AlertR](https://alertr.de/)
+* [DIY Home Alarm System](http://projects.privateeyepi.com/)
 * [EventGhost](http://www.eventghost.net/)
 * [ioBroker](http://iobroker.net/)
 * [Jeedom](https://www.jeedom.com/site/en/index.html)
@@ -176,5 +177,12 @@
 
 
 ### Internet Of Things
+* [Cloud4RPI](https://cloud4rpi.io/)
+
 ### Linux Gateway Router
+* [OpenWrt](https://openwrt.org/)
+* [pfSense](https://www.pfsense.org/)
+
 ### Robotics
+* [Robot Operating System](http://www.ros.org/)
+* [Dexter Industries](https://www.dexterindustries.com/)
