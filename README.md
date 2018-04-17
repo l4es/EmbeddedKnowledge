@@ -144,7 +144,37 @@
 * [The OpenXC Platform](http://openxcplatform.com/)
 
 ### Home Automation
+* [Calaos, Open Source Home Automation](https://calaos.fr/)
+* [Domoticz](https://domoticz.com/)
+* [Mister House](http://misterhouse.sourceforge.net/)
+* [Openmotics](https://www.openmotics.com/)
+* [OpenHAB](https://www.openhab.org/)
+* [Smart Home Automation for the Raspberry Pi](https://pimatic.org/)
+* [Home Assistant](https://www.home-assistant.io/)
+* [AlertR](https://alertr.de/)
+* [EventGhost](http://www.eventghost.net/)
+* [ioBroker](http://iobroker.net/)
+* [Jeedom](https://www.jeedom.com/site/en/index.html)
+* [Linux MCE Home Automation](http://www.linuxmce.com/)
+* [OpenNetHome](http://opennethome.org/)
+* [Smarthomatic](https://www.smarthomatic.org/)
+* [Freedomatic - Open IoT Framework](http://www.freedomotic.com/)
+* [FHEM](http://fhem.de/fhem.html/)
+* [MajorDomo](https://majordomohome.com/)
+* [My Controller](https://www.mycontroller.org/)
+
 ### Industrial Automation
+* [UniPi](https://www.unipi.technology/)
+* [The OpenPLC Project](http://www.openplcproject.com/)
+* [Controllino](https://controllino.biz/)
+* [Industrino](https://industruino.com/)
+* [OpenAPC - Open Source Advanced Process Control](https://www.openapc.com/)
+* [OpenXHC](https://bitbucket.org/moonglow/openxhc)
+* [Fossee](https://openplc.fossee.in/)
+* [emBrick](www.embrick.de/)
+
+
+
 ### Internet Of Things
 ### Linux Gateway Router
 ### Robotics
