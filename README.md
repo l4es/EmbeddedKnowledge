@@ -165,6 +165,7 @@
 * [My Controller](https://www.mycontroller.org/)
 
 ### Industrial Automation
+* [Open Industrial Linux](https://www.openil.org/)
 * [UniPi](https://www.unipi.technology/)
 * [The OpenPLC Project](http://www.openplcproject.com/)
 * [Controllino](https://controllino.biz/)
@@ -173,8 +174,6 @@
 * [OpenXHC](https://bitbucket.org/moonglow/openxhc)
 * [Fossee](https://openplc.fossee.in/)
 * [emBrick](www.embrick.de/)
-
-
 
 ### Internet Of Things
 * [Cloud4RPI](https://cloud4rpi.io/)
