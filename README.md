@@ -163,13 +163,16 @@
 * [FHEM](http://fhem.de/fhem.html/)
 * [MajorDomo](https://majordomohome.com/)
 * [My Controller](https://www.mycontroller.org/)
+* [Open Lighting Architecture](https://www.openlighting.org/)
 
 ### Industrial Automation
 * [Open Industrial Linux](https://www.openil.org/)
+* [Open Source IPC based on Raspberry Pi](https://revolution.kunbus.com/)
 * [UniPi](https://www.unipi.technology/)
+* [netPi](https://www.netiot.com/de/netpi/industrial-raspberry-pi-3/)
 * [The OpenPLC Project](http://www.openplcproject.com/)
 * [Controllino](https://controllino.biz/)
-* [Industrino](https://industruino.com/)
+* [Industruino](https://industruino.com/)
 * [OpenAPC - Open Source Advanced Process Control](https://www.openapc.com/)
 * [OpenXHC](https://bitbucket.org/moonglow/openxhc)
 * [Fossee](https://openplc.fossee.in/)
@@ -177,6 +180,8 @@
 
 ### Internet Of Things
 * [Cloud4RPI](https://cloud4rpi.io/)
+* [Adrian - Open Source Virtual Assitant for Pi](http://www.theadrianproject.com/)
+* [Mycroft AI](https://mycroft.ai/)
 
 ### Linux Gateway Router
 * [OpenWrt](https://openwrt.org/)
