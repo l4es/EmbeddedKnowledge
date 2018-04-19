@@ -190,3 +190,4 @@
 ### Robotics
 * [Robot Operating System](http://www.ros.org/)
 * [Dexter Industries](https://www.dexterindustries.com/)
+* [ODrive](https://odriverobotics.com/)
