@@ -177,6 +177,7 @@
 * [OpenXHC](https://bitbucket.org/moonglow/openxhc)
 * [Fossee](https://openplc.fossee.in/)
 * [emBrick](www.embrick.de/)
+* [Free Modbus](https://www.freemodbus.org/)
 
 ### Internet Of Things
 * [Cloud4RPI](https://cloud4rpi.io/)
