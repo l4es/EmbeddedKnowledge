@@ -179,6 +179,8 @@
 * [Fossee](https://openplc.fossee.in/)
 * [emBrick](www.embrick.de/)
 * [Free Modbus](https://www.freemodbus.org/)
+* [CANFestival](https://canfestival.org/)
+* [JBrady](http://jbrady.com/)
 
 ### Internet Of Things
 * [Cloud4RPI](https://cloud4rpi.io/)
