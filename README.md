@@ -142,6 +142,7 @@
 * [OpenGTS - Open GPS Tracking System](http://www.opengts.org/)
 * [Hacking Volvo](http://hackingvolvo.blogspot.com/)
 * [The OpenXC Platform](http://openxcplatform.com/)
+* [IntrePID Control Systems](https://www.intrepidcs.com/)
 
 ### Home Automation
 * [Calaos, Open Source Home Automation](https://calaos.fr/)
