@@ -98,6 +98,7 @@
 
 ### Linux
 
+* [Embedded Linux for Serious Products](http://www.oe-lite.org/)
 * [1000+ Multiple Choice Questions & Answers in Linux with explanations](https://www.sanfoundry.com/technical-interview-questions/)
 * [10 Job Interview Questions for Linux System Administrators from Linux.com](https://www.linux.com/news/featured-blogs/200-libby-clark/842913-10-job-interview-questions-for-linux-sysadmins)
 * [10 Useful Random Linux Interview Questions and Answers](http://www.tecmint.com/useful-random-linux-interview-questions-and-answers/)
