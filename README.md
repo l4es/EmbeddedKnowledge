@@ -125,9 +125,16 @@
 ## Platforms
 
 ### Raspberry Pi
+* [Exploring Raspberry Pi](http://exploringrpi.com/)
+
 ### Beagle Board
+
+* [Exploring Beaglebone](http://exploringbeaglebone.com/)
+
 ### ARM Cortex-M
+
 ### Arduino
+
 ### ESP8266 Wifi
 
 ## Product Domains
