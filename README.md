@@ -197,3 +197,10 @@
 * [Robot Operating System](http://www.ros.org/)
 * [Dexter Industries](https://www.dexterindustries.com/)
 * [ODrive](https://odriverobotics.com/)
+
+### Opensource/Linux Storage
+* [FreeNAS](http://www.freenas.org/)
+* [Rockstor](http://rockstor.com/)
+* [Helios](https://kobol.io/helios4/)
+* [NAS4Free](https://www.nas4free.org/)
+
