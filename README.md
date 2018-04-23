@@ -204,6 +204,8 @@
 * [Robot Operating System](http://www.ros.org/)
 * [Dexter Industries](https://www.dexterindustries.com/)
 * [ODrive](https://odriverobotics.com/)
+* [Orocos](http://www.orocos.org/)
+* [Rock](https://www.rock-robotics.org/)
 
 ### Opensource/Linux Storage
 * [FreeNAS](http://www.freenas.org/)
