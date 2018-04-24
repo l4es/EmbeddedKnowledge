@@ -142,6 +142,7 @@
 ### Automotive
 * [CAN protocol tutorial](https://www.kvaser.com/can-protocol-tutorial/)
 * [CAN Bit Time Calculation](http://www.bittiming.can-wiki.info/)
+* [CANPie](http://canpie.sourceforge.net/)
 * [Automotive Basics](https://automotivetechis.wordpress.com/automotive-interview-questions/)
 * [CAN Interview Questions](http://www.andthinker.com/2016/02/automotive-interview-questions-can1.html)
 * [Let's talk about cars](http://www.car-engineer.com/)
