@@ -47,6 +47,8 @@
 * [C++ Excercises and Solutions](http://www.worldbestlearningcenter.com/index_files/cpp-tutorial-variables_datatypes_exercises.htm)
 * [Online C++ Programming Test](http://www.indiabix.com/online-test/cpp-programming-test/) 
 * [Firmware Developer](http://www.firmcodes.com/cc-codes/)
+* [Advanced C++ Techniques Explained](http://cplusplus.bordoon.com/cplusplusadvice.html)
+* [Tips and Tricks of the C++ Professionals](http://www.bordoon.com/cplusplus/book_wrapper.html)
 
 ### C
 
@@ -65,6 +67,7 @@
 * [Programming Skills](http://www.pskills.org/c.jsp)
 * [Online C Programming Test](http://www.indiabix.com/online-test/c-programming-test/) 
 * [C Tutorial](http://www.zentut.com/c-tutorial/)
+* [Advance C programs - Solved C language programming examples](http://www.includehelp.com/c-programs/advacnce-c-examples.aspx)
 
 ### Python
 
