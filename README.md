@@ -91,6 +91,7 @@
 
 * [The Complete Guide to UML Diagram Types with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 * [UML Class Diagram Explained With C++ samples](https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/)
+* [Bridge, Strategy, Adapter](http://seanbowman.me/blog/bridge-strategy-adapter/)
 
 ## Algorithms
 
