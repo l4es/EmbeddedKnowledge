@@ -4,6 +4,7 @@
   - [C](#c-1)
   - [Python](#python)
   - [Golang](#golang)
+  - [Rust](#rust)
   - [OOP](#oop)
 
 - [Algorithms](#algorithms)
