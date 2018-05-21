@@ -27,6 +27,7 @@
   - [Industrial Automation](#idustrial-automation)
   - [Internet Of Things](#internet-of-things)
   - [Linux Gateway Router](#linux-gateway-router)
+  - [Telephony](#telephony)
   - [Robotics](#robotics)
 
 ## Programming Languages
@@ -204,6 +205,10 @@
 ### Linux Gateway Router
 * [OpenWrt](https://openwrt.org/)
 * [pfSense](https://www.pfsense.org/)
+
+### Telephony
+
+* [Open-source VoIP](https://www.voip-info.org/open-source-voip-software)
 
 ### Robotics
 * [Robot Operating System](http://www.ros.org/)
